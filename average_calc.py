@@ -7,8 +7,8 @@
 # My program uses a list and a loop to do what is listed above.
 
 # Importing math module and my constants.
-import constants
 import random
+import constants
 
 
 def main():
